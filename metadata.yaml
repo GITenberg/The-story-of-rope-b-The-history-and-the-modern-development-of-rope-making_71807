@@ -1,0 +1,30 @@
+_repo: The-story-of-rope-b-The-history-and-the-modern-development-of-rope-making_71807
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-10-05'
+identifiers:
+  gutenberg: '71807'
+language: en
+pgterms:marc905: 20230801060418author
+pgterms:marc906: '1916'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aNorth Plymouth, Mass. :$bPlymouth Cordage Company, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The story of rope : $b The history and the modern development of rope-making'
+url: http://www.gutenberg.org/ebooks/71807
